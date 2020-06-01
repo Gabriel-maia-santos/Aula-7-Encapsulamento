@@ -1,0 +1,13 @@
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.exe
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.deps.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.runtimeconfig.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.runtimeconfig.dev.json
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\bin\Debug\netcoreapp3.1\Aula 5.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.csprojAssemblyReference.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.csproj.CoreCompileInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.AssemblyInfoInputs.cache
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.AssemblyInfo.cs
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.dll
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.pdb
+C:\Users\xbsbu\Desktop\Projetos - Senai\Aula 5\obj\Debug\netcoreapp3.1\Aula 5.genruntimeconfig.cache
